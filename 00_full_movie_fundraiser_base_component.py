@@ -7,4 +7,6 @@
     # Name (can't be blank)
     # Age (between 12 & 130)
     # Calculate ticket price
-    # Ask for paymethod (
+    # Ask for paymethod (ands apply surcharge if need)
+# Calculate total sales and profit
+# Output data to text file
